@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="4.9.3 -mcpu=cortex-m0 -mthumb -g -nostartfiles -Map=systick.map -O0 --gc-sections -LC:\CooCox\CoIDE\configuration\ProgramData\systick -TC:\CooCox\CoIDE\configuration\ProgramData\systick/arm-gcc-link.ld -g">
+      <target file="systick.elf" lastModified="154352e359c">
+         <source file="..\obj\stm32f0xx_rcc.o" lastModified="154352e3201"/>
+         <source file="..\obj\main.o" lastModified="154352e3246"/>
+         <source file="..\obj\startup_stm32f0xx.o" lastModified="154352e3251"/>
+         <source file="..\obj\system_stm32f0xx_temp.o" lastModified="154352e3292"/>
+         <source file="..\obj\stm32f0xx_gpio.o" lastModified="154352e32e8"/>
+         <source file="..\obj\stm32f0xx_tim.o" lastModified="154352e33b0"/>
+      </target>
+   </processor>
+</history>
